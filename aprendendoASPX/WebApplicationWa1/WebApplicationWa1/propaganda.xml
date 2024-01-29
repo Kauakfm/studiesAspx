@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>~/images/image1.jpg</ImageUrl>
+		<NavigateUrl>Https://instituto.varsolutions.com.br</NavigateUrl>
+		<AlternateText>VARSOLUTIONS</AlternateText>
+		<Impressions>100</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/images/image3.jpg</ImageUrl>
+		<NavigateUrl>Https://youtube.com.br</NavigateUrl>
+		<AlternateText>Marrom soluções</AlternateText>
+		<Impressions>1000000</Impressions>
+	</Ad>
+</Advertisements>
